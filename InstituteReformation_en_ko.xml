@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>InstituteReformation.esp</Addon>
+    <Source>en</Source>
+    <Dest>ko</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>zzHoldCellX688</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Nowhere</Source>
+      <Dest>어디에도 없군.</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzAdvictoriamDUPLICATE000</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Ad victoriam!</Source>
+      <Dest>승리를 위하여!</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzHastalavistababyLONGDUPLICATE000</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Hasta la vista, baby!</Source>
+      <Dest>나중에 봐, 자기!</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzHastalavistababySHORTDUPLICATE000</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Hasta la vista, baby!</Source>
+      <Dest>나중에 봐, 자기!</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzBullshitDUPLICATE000</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Bullshit!</Source>
+      <Dest>웃기지 마!</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzChilloutdickwadDUPLICATE000</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Chill out, dickwad.</Source>
+      <Dest>진정하라고, 멍청아.</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzConsiderthatadivorce</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Consider that a divorce.</Source>
+      <Dest>이혼해야된다고 생각해.</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzPutthatcookiedown</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Put that cookie down.</Source>
+      <Dest>쿠키 내려놔.</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzCooloffDUPLICATE000</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Cool off.</Source>
+      <Dest>진정해.</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100C547]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Cool off.</Source>
+      <Dest>진정해.</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100C542]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Hasta la vista, baby!</Source>
+      <Dest>나중에 봐, 자기!</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100C541]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Chill out, dickwad.</Source>
+      <Dest>진정하라고, 멍청아.</Dest>
+    </String>
+    <String List="0">
+      <EDID>[010091E1]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Hasta la vista, baby!</Source>
+      <Dest>나중에 봐, 자기!</Dest>
+    </String>
+    <String List="0">
+      <EDID>[010091DF]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Chill out, dickwad.</Source>
+      <Dest>진정하라고, 멍청아.</Dest>
+    </String>
+    <String List="0">
+      <EDID>[010091E5]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Bullshit!</Source>
+      <Dest>웃기지 마!</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100DC75]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Ad victoriam!</Source>
+      <Dest>승리를 위하여!</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100DCA9]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Chill out, dickwad.</Source>
+      <Dest>진정하라고, 멍청아.</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100C571]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Put that cookie down.</Source>
+      <Dest>쿠키 내려놔.</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100D4CF]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Hasta la vista, baby!</Source>
+      <Dest>나중에 봐, 자기!</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100D4C0]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Consider that a divorce.</Source>
+      <Dest>이혼해야된다고 생각해.</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100C59B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Hasta la vista, baby!</Source>
+      <Dest>나중에 봐, 자기!</Dest>
+    </String>
+    <String List="2">
+      <EDID>zzAdvictoriamDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ad victoriam!</Source>
+      <Dest>승리를 위하여!</Dest>
+    </String>
+    <String List="2">
+      <EDID>zzHastalavistababyLONGDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hasta la vista, baby!</Source>
+      <Dest>나중에 봐, 자기!</Dest>
+    </String>
+    <String List="2">
+      <EDID>zzHastalavistababySHORTDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Hasta la vista, baby!</Source>
+      <Dest>나중에 봐, 자기!</Dest>
+    </String>
+    <String List="2">
+      <EDID>zzBullshitDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Bullshit!</Source>
+      <Dest>웃기지 마!</Dest>
+    </String>
+    <String List="2">
+      <EDID>zzChilloutdickwadDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Chill out, dickwad.</Source>
+      <Dest>진정하라고, 멍청아.</Dest>
+    </String>
+    <String List="2">
+      <EDID>zzConsiderthatadivorce</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Consider that a divorce.</Source>
+      <Dest>이혼해야된다고 생각해.</Dest>
+    </String>
+    <String List="2">
+      <EDID>zzPutthatcookiedown</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Put that cookie down.</Source>
+      <Dest>쿠키 내려놔.</Dest>
+    </String>
+    <String List="2">
+      <EDID>zzCooloffDUPLICATE000</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Cool off.</Source>
+      <Dest>진정해.</Dest>
+    </String>
+    <String List="2">
+      <EDID>[0100C495]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ad victoriam!</Source>
+      <Dest>승리를 위하여!</Dest>
+    </String>
+    <String List="2">
+      <EDID>[0100C4FE]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ad victoriam!</Source>
+      <Dest>승리를 위하여!</Dest>
+    </String>
+    <String List="2">
+      <EDID>[0100C4F5]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>Ad victoriam!</Source>
+      <Dest>승리를 위하여!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
